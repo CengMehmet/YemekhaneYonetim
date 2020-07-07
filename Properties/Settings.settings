@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RTEvents.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OKUL_com_megaokul_gateway_HERYONESMSWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://gateway.megaokul.com/HERYONESMSWebService.asmx</Value>
+    </Setting>
+    <Setting Name="OKUL_com_ttmesaj_ws_Service1" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://ws.ttmesaj.com/Service1.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
